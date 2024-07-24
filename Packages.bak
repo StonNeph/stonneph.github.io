@@ -1,0 +1,13 @@
+Package: com.stonneph.st0ngrade
+Version: 2.0.0-1
+Section: System
+Maintainer: stonneph <stonnephbusiness@gmail.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.stonneph.st0ngrade
+Size: 854
+MD5sum: 4f475cce33d224dcfef5060f1fec200c
+Description: Downgrades A5(X), A5(X) to 8.4.1
+Name: st0ngrade
+Author: stonneph <stonnephbusiness@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
